@@ -18,13 +18,6 @@ Imbalanced datasets are a major concern for ML modeling in environmental science
 
 Finally, we will discuss model interpretation through explainable AI (XAI) techniques. There are many reasons why users want to understand how their model works. XAI may reveal failure cases that could lead to ideas for improving the model. Or, the model may reveal that it has learned physically-realistic strategies which may help us trust the models more for use in critical situations. We will introduce XAI and demonstrate several commonly used methods. We will show how XAI can be used to investigate interesting cases in imbalanced datasets. We will also show examples of some of XAI pitfalls and how to avoid being misled by the explanations.
 
-Participants will learn:
-
-- Strategies for dealing with highly imbalanced datasets from model development, evaluation, and interpretation.
-- Techniques for hyperparameter tuning and loss function customization to get more performance out of ML architectures.
-- Evaluation techniques so that participants can appropriately compare models and identify when a model meets their performance criteria for operation use.
-- Techniques for model interpretation using XAI, while gaining an understanding of the many limitations of XAI.
-
 ## Authors
 
 - [Evan Krell](https://ekrell.github.io/)
