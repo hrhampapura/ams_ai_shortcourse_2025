@@ -2,7 +2,6 @@
 
 A one-day short course presented at the [American Meteorological Society (AMS) Annual Meeting 2025](https://annual.ametsoc.org/index.cfm/2025/)
 
-- [105th AMS Annual Meeting](https://annual.ametsoc.org/index.cfm/2025/)
 - New Orleans Ernest N. Morial Convention Center
 - January 12, 2025 at 8:00 AM - 3:30 PM Central Time (Hybrid)
 - [Course Registration](https://www.ametsoc.org/index.cfm/ams/education-careers/careers/professional-development/short-courses/intermediate-machine-learning-in-python-for-environmental-science-problems-2025/)
