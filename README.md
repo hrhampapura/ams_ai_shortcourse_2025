@@ -24,7 +24,6 @@ Finally, we will discuss model interpretation through explainable AI (XAI) techn
 - [Kara D. Lamb](https://kdlamb.github.io/)
 - Praveen Singh
 - [Christian Duff](https://www.linkedin.com/in/christian-duff-898103211/)
-- [Brian Colburn](https://github.com/BrianColburn)
 
 
 ## Agenda
@@ -34,7 +33,7 @@ Finally, we will discuss model interpretation through explainable AI (XAI) techn
 | Introduction              | Evan Krell      |
 | Handling imbalanced data  | Praveen Singh   |
 | Hyperparameter tuning     | Christian Duff  | 
-| Model evaluation          | Brian Colburn   |
+| [Model evaluation](notebooks/AMSAI2025_Evaluation.ipynb)   | Evan Krell   |
 | [Explainable AI](notebooks/AMSAI2025_XAI.ipynb)            | Evan Krell      | 
 | Physics-informed ML       | Kara D. Lamb    | 
 
