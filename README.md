@@ -31,9 +31,10 @@ Finally, we will discuss model interpretation through explainable AI (XAI) techn
 | **Topic**                 | **Instructor**  |
 |---------------------------|-----------------|
 | Introduction              | Evan Krell      |
-| Handling imbalanced data  | Praveen Singh   |
-| Hyperparameter tuning     | Christian Duff  | 
+| [Handling imbalanced data](notebooks/AMSAI2025_Imbalanced.ipynb)  | Praveen Singh   |
+| [Hyperparameter tuning](notebooks/Hyperparameter_Tuning.ipynb)     | Christian Duff  | 
 | [Model evaluation](notebooks/AMSAI2025_Evaluation.ipynb)   | Evan Krell   |
 | [Explainable AI](notebooks/AMSAI2025_XAI.ipynb)            | Evan Krell      | 
-| Physics-informed ML       | Kara D. Lamb    | 
+| [Physics-informed ML](notebooks/AMSAI2025_physicsai.ipynb)       | Kara D. Lamb    | 
+| [Small groups exercise](notebooks/AMSAI2025_Exercise.ipynb) | Everyone | 
 
