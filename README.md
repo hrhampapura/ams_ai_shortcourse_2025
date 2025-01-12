@@ -21,10 +21,13 @@ Finally, we will discuss model interpretation through explainable AI (XAI) techn
 ## Authors
 
 - [Evan Krell](https://ekrell.github.io/)
+  - [5B.3 Hierarchical Superpixel Explanations Improve XAI Attribution Methods for Geospatial Models ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/448846)
 - [Kara D. Lamb](https://kdlamb.github.io/)
+  - [CLOUDPHYS Discovering a Model for Depositional Ice Growth from Observations Using Neural Ordinary Differential Equations and Symbolic Regression ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/457671)
+  - [CLOUDPHYS A Differentiable Framework to Reduce Structural and Parametric Uncertainty in Cloud Microphysics Parameterizations Online ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/457779)
 - Praveen Singh
 - [Christian Duff](https://www.linkedin.com/in/christian-duff-898103211/)
-
+  - [AI Using Continuous Rank Probability Score Multi-Model Ensemble Machine Learning Method to Quantify Aleatoric and Epistemic Uncertainty for Improvement of Cold-Stunning Predictions ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/455246)
 
 ## Agenda
 
