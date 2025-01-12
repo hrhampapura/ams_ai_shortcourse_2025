@@ -18,13 +18,16 @@ Imbalanced datasets are a major concern for ML modeling in environmental science
 
 Finally, we will discuss model interpretation through explainable AI (XAI) techniques. There are many reasons why users want to understand how their model works. XAI may reveal failure cases that could lead to ideas for improving the model. Or, the model may reveal that it has learned physically-realistic strategies which may help us trust the models more for use in critical situations. We will introduce XAI and demonstrate several commonly used methods. We will show how XAI can be used to investigate interesting cases in imbalanced datasets. We will also show examples of some of XAI pitfalls and how to avoid being misled by the explanations.
 
-## Authors
+## Authors (and their AMS talks)
 
 - [Evan Krell](https://ekrell.github.io/)
+  - [Hierarchical Superpixel Explanations Improve XAI Attribution Methods for Geospatial Models ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/448846)
 - [Kara D. Lamb](https://kdlamb.github.io/)
+  - [CLOUDPHYS Discovering a Model for Depositional Ice Growth from Observations Using Neural Ordinary Differential Equations and Symbolic Regression ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/457671)
+  - [CLOUDPHYS A Differentiable Framework to Reduce Structural and Parametric Uncertainty in Cloud Microphysics Parameterizations Online ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/457779)
 - Praveen Singh
 - [Christian Duff](https://www.linkedin.com/in/christian-duff-898103211/)
-
+  - [AI Using Continuous Rank Probability Score Multi-Model Ensemble Machine Learning Method to Quantify Aleatoric and Epistemic Uncertainty for Improvement of Cold-Stunning Predictions ](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/455246)
 
 ## Agenda
 
